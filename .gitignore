@@ -1,0 +1,6 @@
+**/**.idea
+
+**/.DS_Store
+
+books/bin
+books/lib
